@@ -1,14 +1,16 @@
 <img align="right" src="https://preview.redd.it/the-birlliant-akane-kurokawa-v0-0zo89gicndfg1.jpg?width=640&crop=smart&auto=webp&s=badf3cefcec63c8cadb6d6fe9952217161a0130f" width="200" alt="Akane Kurokawa" />
 
-# Hi there, I'm Gio (Giovanni Achmad Avicena) 👋
+### Hi there, I'm Gio (Giovanni Achmad Avicena) 👋
 
 I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, Jaringan, dan Aplikasi (SIJA)**. I build web applications, manage systems, and optimize hardware environments.
 
-## 🚀 What I'm Up To
+### 🚀 What I'm Up To
 - 🔭 Currently developing **[warung_madura](https://github.com/EnderArch2/warung_madura)**, a Laravel-based web application.
 - 💼 Working on custom commissions, including private server setups and data dashboards.
 - 🌱 Training for the **Regional LKS (Lomba Kompetensi Siswa)** in the **Web Technology** module.
 - 🏆 Recently competed as a finalist in a university-level hackathon.
+
+<br clear="both">
 
 ## 🎮 Gaming & Hobbies
 When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or tinkering with my setup:
