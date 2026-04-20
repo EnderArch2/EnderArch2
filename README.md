@@ -10,7 +10,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 
 ## 🎮 Gaming & Hobbies
 When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or tinkering with my setup:
-- 🎵 **Rhythm Games:** Big fan of ![osu!](https://osu.ppy.sh/users/14124685), Maimai, and Project DIVA Mega Mix+.
+- 🎵 **Rhythm Games:** Big fan of **[osu!](https://osu.ppy.sh/users/14124685)**, Maimai, and Project DIVA Mega Mix+.
 - 🥊 **Fighting Games:** Melty Blood: Type Lumina (I main Kohaku) and Guilty Gear Strive.
 - 🗡️ **RPGs:** I enjoy every kind of JPRG (such as Persona 5 Royale, Metaphor: Refantazio, and more).
 - ⌨️ **Hardware Tuning:** I love pushing my GPU to its absolute limit with undervolting and building mechanical keyboards with the perfect clacky sound profile.
