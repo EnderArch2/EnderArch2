@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there, I'm Gio (Giovanni Achmad Avicena) 👋
 
-<!--
-**EnderArch2/EnderArch2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, Jaringan, dan Aplikasi (SIJA)**. I build web applications, manage systems, and optimize hardware environments.
 
-Here are some ideas to get you started:
+## 🚀 What I'm Up To
+- 🔭 Currently developing **[warung_madura](https://github.com/EnderArch2/warung_madura)**, a Laravel-based web application.
+- 💼 Working on custom commissions, including private server setups and data dashboards.
+- 🌱 Training for the **Regional LKS (Lomba Kompetensi Siswa)** in the **Web Technology** module.
+- 🏆 Recently competed as a finalist in a university-level hackathon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Gaming & Hobbies
+When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or tinkering with my setup:
+- 🎵 **Rhythm Games:** Big fan of ![osu!](https://osu.ppy.sh/users/14124685), Maimai, and Project DIVA Mega Mix+.
+- 🥊 **Fighting Games:** Melty Blood: Type Lumina (I main Kohaku) and Guilty Gear Strive.
+- 🗡️ **RPGs:** I enjoy every kind of JPRG (such as Persona 5 Royale, Metaphor: Refantazio, and more).
+- ⌨️ **Hardware Tuning:** I love pushing my GPU to its absolute limit with undervolting and building mechanical keyboards with the perfect clacky sound profile.
+
+## 💻 Tech Stack & Tools
+
+### Development
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Systems & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Environments
+![Windows 10 LTSC](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Zorin OS](https://img.shields.io/badge/Zorin_OS-20A4F3?style=for-the-badge&logo=linux&logoColor=white)
+
+## 📌 Featured Projects
+
+- **[warung_madura](https://github.com/EnderArch2/warung_madura)**: A Laravel exploration and ongoing study project.
+- **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnderArch2&show_icons=true&theme=tokyonight&hide_border=true" alt="EnderArch2's GitHub Stats" />
+</p>
