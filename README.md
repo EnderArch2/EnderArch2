@@ -5,9 +5,8 @@
 I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, Jaringan, dan Aplikasi (SIJA)**. I build web applications, manage systems, and optimize hardware environments.
 
 ### 🚀 What I'm Up To
-- 🔭 Currently developing **[warung_madura](https://github.com/EnderArch2/warung_madura)**, a Laravel-based web application.
+- 🔭 Currently learning Dart for making Flutter mobile app.
 - 💼 Working on custom commissions, including private server setups and data dashboards.
-- 🌱 Training for the **Regional LKS (Lomba Kompetensi Siswa)** in the **Web Technology** module.
 - 🏆 Recently competed as a finalist in a university-level hackathon.
 
 <br clear="both">
@@ -29,6 +28,8 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Systems & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
