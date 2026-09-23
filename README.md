@@ -49,6 +49,4 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EnderArch2&show_icons=true&theme=tokyonight&hide_border=true" alt="EnderArch2's GitHub Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EnderArch2)](https://git.io/streak-stats)
