@@ -1,4 +1,4 @@
-<img align="center" src="https://preview.redd.it/the-birlliant-akane-kurokawa-v0-0zo89gicndfg1.jpg?width=640&crop=smart&auto=webp&s=badf3cefcec63c8cadb6d6fe9952217161a0130f" width="200" alt="Akane Kurokawa" />
+<img align="right" src="https://preview.redd.it/the-birlliant-akane-kurokawa-v0-0zo89gicndfg1.jpg?width=640&crop=smart&auto=webp&s=badf3cefcec63c8cadb6d6fe9952217161a0130f" width="200" alt="Akane Kurokawa" />
 
 ### Hi there, I'm Gio (Giovanni Achmad Avicena) 👋
 
