@@ -49,4 +49,4 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnderArch2)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EnderArch2&theme=dark)](https://git.io/streak-stats)
