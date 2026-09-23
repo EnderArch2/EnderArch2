@@ -46,7 +46,7 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 - **[warung_madura](https://github.com/EnderArch2/warung_madura)**: A Laravel exploration and ongoing study project.
 - **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
 - **[EduWave](https://github.com/RakhaFR/EduWave)**: An E-Learning platform that place me 2nd in Web Development competition.
-- **[ShutterFlow](https://github.com/EnderArch2/magical-mirai)**: A browser based VSRG with TextAlive API implementation to compete in Magical Mirai Programming Contest 2026 (not chosen for public vote :'( )
+- **[ShutterFlow](https://github.com/EnderArch2/magical-mirai)**: A browser based VSRG with TextAlive API implementation to compete in Magical Mirai Programming Contest 2026, but not chosen for public vote :'(.
 
 ## 📈 GitHub Stats
 
