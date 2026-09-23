@@ -1,4 +1,4 @@
-<img align="right" src="https://preview.redd.it/the-birlliant-akane-kurokawa-v0-0zo89gicndfg1.jpg?width=640&crop=smart&auto=webp&s=badf3cefcec63c8cadb6d6fe9952217161a0130f" width="200" alt="Akane Kurokawa" />
+<img align="center" src="https://preview.redd.it/the-birlliant-akane-kurokawa-v0-0zo89gicndfg1.jpg?width=640&crop=smart&auto=webp&s=badf3cefcec63c8cadb6d6fe9952217161a0130f" width="200" alt="Akane Kurokawa" />
 
 ### Hi there, I'm Gio (Giovanni Achmad Avicena) 👋
 
@@ -8,16 +8,22 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 - 🔭 Currently learning Dart for making Flutter mobile app.
 - 💼 Working on custom commissions, including private server setups and data dashboards.
 - 🏆 Recently competed as a finalist in a university-level hackathon.
-- 🏆 Recently place 2nd in Web Development competition. My winning project **[EduWave](https://github.com/RakhaFR/EduWave)**.
+- 🏆 Recently placed 2nd in Web Development competition. My winning project **[EduWave](https://github.com/RakhaFR/EduWave)**.
+
+---
 
 <br clear="both">
 
-## 🎮 Gaming & Hobbies
-When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or tinkering with my setup:
-- 🎵 **Rhythm Games:** Big fan of **[osu!](https://osu.ppy.sh/users/14124685)**, Maimai, and Project DIVA Mega Mix+.
-- 🥊 **Fighting Games:** Melty Blood: Type Lumina (I main Kohaku) and Guilty Gear Strive.
-- 🗡️ **RPGs:** I enjoy every kind of JRPG (such as Persona 5 Royale, Metaphor: Refantazio, and more).
-- ⌨️ **Hardware Tuning:** I love pushing my GPU to its absolute limit with undervolting and building mechanical keyboards with the perfect clacky sound profile.
+---
+
+## 📌 Featured Projects
+
+- **[warung_madura](https://github.com/EnderArch2/warung_madura)**: A Laravel exploration and ongoing study project.
+- **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
+- **[EduWave](https://github.com/RakhaFR/EduWave)**: An E-Learning platform that won 2nd place in Web Development competition.
+- **[ShutterFlow](https://github.com/EnderArch2/magical-mirai)**: A browser-based VSRG with TextAlive API implementation to compete in Magical Mirai Programming Contest 2026, but not chosen for public vote :'(.
+
+---
 
 ## 💻 Tech Stack & Tools
 
@@ -41,12 +47,16 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Zorin OS](https://img.shields.io/badge/Zorin_OS-20A4F3?style=for-the-badge&logo=linux&logoColor=white)
 
-## 📌 Featured Projects
+---
 
-- **[warung_madura](https://github.com/EnderArch2/warung_madura)**: A Laravel exploration and ongoing study project.
-- **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
-- **[EduWave](https://github.com/RakhaFR/EduWave)**: An E-Learning platform that place me 2nd in Web Development competition.
-- **[ShutterFlow](https://github.com/EnderArch2/magical-mirai)**: A browser based VSRG with TextAlive API implementation to compete in Magical Mirai Programming Contest 2026, but not chosen for public vote :'(.
+## 🎮 Gaming & Hobbies
+When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or tinkering with my setup:
+- 🎵 **Rhythm Games:** Big fan of **[osu!](https://osu.ppy.sh/users/14124685)**, Maimai, and Project DIVA Mega Mix+.
+- 🥊 **Fighting Games:** Melty Blood: Type Lumina (I main Kohaku) and Guilty Gear Strive.
+- 🗡️ **RPGs:** I enjoy every kind of JRPG (such as Persona 5 Royale, Metaphor: Refantazio, and more).
+- ⌨️ **Hardware Tuning:** I love pushing my GPU to its absolute limit with undervolting and building mechanical keyboards with the perfect clacky sound profile.
+
+---
 
 ## 📈 GitHub Stats
 
