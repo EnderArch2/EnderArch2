@@ -8,6 +8,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 - 🔭 Currently learning Dart for making Flutter mobile app.
 - 💼 Working on custom commissions, including private server setups and data dashboards.
 - 🏆 Recently competed as a finalist in a university-level hackathon.
+- 🏆 Recently place 2nd in Web Development competition. My winning project **![EduWave](https://github.com/RakhaFR/EduWave)**.
 
 <br clear="both">
 
@@ -44,6 +45,7 @@ When I'm not coding, I'm usually grinding accuracy, analyzing game mechanics, or
 
 - **[warung_madura](https://github.com/EnderArch2/warung_madura)**: A Laravel exploration and ongoing study project.
 - **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
+- **![EduWave](https://github.com/RakhaFR/EduWave)**: An E-Learning platform that place me 2nd in Web Development competition.
 
 ## 📈 GitHub Stats
 
