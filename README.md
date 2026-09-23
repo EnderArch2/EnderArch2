@@ -4,11 +4,11 @@
 
 I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, Jaringan, dan Aplikasi (SIJA)**. I build web applications, manage systems, and optimize hardware environments.
 
-### 🚀 What I'm Up To
-- 🔭 Currently learning Dart for making Flutter mobile app.
-- 💼 Working on custom commissions, including private server setups and data dashboards.
-- 🏆 Recently competed as a finalist in a university-level hackathon.
-- 🏆 Recently placed 2nd in Web Development competition. My winning project **[EduWave](https://github.com/RakhaFR/EduWave)**.
+### 🤔 What I'm Up To
+- 🔭 **Currently Learning:** Dart & Flutter for cross-platform mobile development.
+- 💼 **Freelance & Commissions:** Building custom web apps, server setups, and data dashboards.
+- 🏆 **Competitions:** Took **2nd place** in Web Development with **[EduWave](https://github.com/RakhaFR/EduWave)**.
+- 🎯 **Hackathons:** Finalist in a university-level hackathon.
 
 ---
 
