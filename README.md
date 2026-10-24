@@ -45,7 +45,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 ### Environments
 ![Windows 10 LTSC](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Zorin OS](https://img.shields.io/badge/Zorin_OS-20A4F3?style=for-the-badge&logo=linux&logoColor=white)
+![Arch Linux](https://shields.io)
 
 ---
 
