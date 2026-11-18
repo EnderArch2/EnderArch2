@@ -22,6 +22,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 - **[Order-Akun-TeleBot](https://github.com/Shiki-12/Order-Akun-TeleBot)**: An automated Telegram bot built with Python.
 - **[EduWave](https://github.com/RakhaFR/EduWave)**: An E-Learning platform that won 2nd place in Web Development competition.
 - **[ShutterFlow](https://github.com/EnderArch2/magical-mirai)**: A browser-based VSRG with TextAlive API implementation to compete in Magical Mirai Programming Contest 2026, but not chosen for public vote :'(.
+- **[AeroSense](https://github.com/Rambolt375/aerosense-app)**: A multi-platform app to track ESP32 Air Quality reading and for STEM Competition at University of Indonesia.
 
 ---
 
