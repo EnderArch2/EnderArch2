@@ -9,6 +9,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 - 💼 **Freelance & Commissions:** Building custom web apps, server setups, and data dashboards.
 - 🏆 **Competitions:** Took **2nd place** in Web Development with **[EduWave](https://github.com/RakhaFR/EduWave)**.
 - 🎯 **Hackathons:** Finalist in a university-level hackathon.
+- 💬 **Ongoing Competitions:** STEM at University Indonesia and Web Development at IDN.
 
 ---
 
@@ -47,6 +48,7 @@ I am a developer and student at SMKN 1 Cibinong majoring in **Sistem Informasi, 
 ![Windows 10 LTSC](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Linux Fedora](https://img.shields.io/badge/LINUX-Fedora-blue?style=for-the-badge&logo=Fedora)
 
 ---
 
